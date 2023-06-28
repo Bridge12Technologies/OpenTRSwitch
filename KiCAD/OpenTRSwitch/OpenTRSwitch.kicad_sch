@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Passive TR Switch")
+    (date "2023-06-09")
+    (rev "1.0")
+    (company "Bridge12Technologies")
+    (comment 1 "DEFAULT SUGGESTED DIODES: 1N4148")
+  )
+
   (lib_symbols
     (symbol "B12T_logo:B12T-Logo" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "X" (at 0 3.81 0)
